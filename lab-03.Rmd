@@ -171,9 +171,9 @@ ggplot(data = staff_long,
 
 _Write below your ideas for adapting the line plot_
 
-* Idea 1
-* Idea 2
-* Idea 3
+* Idea 1 - Make a proportion bar graph for each faculty, for each year.
+* Idea 2 - Box graph of actual percentage change.
+
 * ...
 
 
