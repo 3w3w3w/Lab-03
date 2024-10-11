@@ -22,7 +22,7 @@ knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
 _Write your comments about image 1 below_
-
+Scale is wrong, English is the same size as Spanish. 
 
 
 
@@ -34,7 +34,7 @@ knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
 _Write your comments about image 2 below_
-
+No information about color scaling, size.
 
 
 
@@ -45,7 +45,7 @@ knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
 _Write your comments about image 3 below_
-
+Can't read anything from the graph, too much information overlaying different points. No units on the axis. Some of the points are different sizes without any clear reason why. + random colors. 
 
 
 
@@ -56,7 +56,7 @@ knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
 _Write your comments about image 4 below_
-
+Exponential scaling on the x axis. Overlaying graphs make the data hard to read.
 
 
 
