@@ -72,11 +72,16 @@ staff <- read_csv("data/instructional-staff.csv")
 
 What is the difference between *wide format* data and *long format* data?
 
+-Long format is easier to merge tables together 
+-wide data is good for visualisation
+-Long data good for more dense data storage 
 
 Is the format `staff` data *wide* or *long*?
+It is wide data becuase there are multipe attirbutes that could be under one attribute name ie year
 
 
 How many observations are there in the data set?
+5
 
 
 
